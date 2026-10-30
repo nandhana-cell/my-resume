@@ -20,7 +20,6 @@ I'm passionate about Linux system administration, cloud computing, automation, a
 - Linux System Administration Labs
 - Ansible Automation Projects
 - Python & Java Programs
-- Employee Management System
 
 ## 🎓 Education
 
